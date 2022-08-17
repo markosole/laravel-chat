@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Group",
+        "name": "Laravel Jetstream",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "gdj6OkWLt7IyPAvR"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\welcome.blade.php",
+        "parent_id": "gdj6OkWLt7IyPAvR",
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\welcome.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "DSMwhirxo5YdbRFX"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\jetstream\\components\\welcome.blade.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\jetstream\\components\\welcome.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "A8dUSHXIwPyZqkxD"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\welcome.blade.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\welcome.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "vjF8yaZpiz1Qd02c"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\users.blade.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\users.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fE73e4IQ6z1ik9Bs"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\Chatify\\layouts\\footerLinks.blade.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\Chatify\\layouts\\footerLinks.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "gAOfDXSFoQGend9B"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\config\\chatify.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\config\\chatify.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "HsK1P43dpa0UoQAM"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\js\\bootstrap.js",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\js\\bootstrap.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6qM8Vt1QkPB2bzLw"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\Chatify\\layouts\\headLinks.blade.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\masterx\\Desktop\\laravel\\jetstream\\resources\\views\\vendor\\Chatify\\layouts\\headLinks.blade.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "p0mjBh5tk4RidDuK"
+    }
+]
