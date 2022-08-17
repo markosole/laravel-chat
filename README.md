@@ -32,3 +32,6 @@ LARAVEL_WEBSOCKETS_SSL_LOCAL_CERT=/www/wwwroot/MY_DOMAIN/fullchain.pem
 LARAVEL_WEBSOCKETS_SSL_LOCAL_PK=/www/wwwroot/MY_DOMAIN/privkey.pem
 ```
 
+# !!NOTE!! 
+This app does not require any external service. Laravel provides Pusher-like service called AND configured same as you would do for real Pusher paid service. Difference is, this totally free.
+
